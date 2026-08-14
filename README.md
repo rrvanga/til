@@ -1,0 +1,19 @@
+# TIL — Today I Learned
+
+A collection of concrete, useful things I learn while building and self-hosting — one entry per day, each self-contained enough to be read on its own.
+
+Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one genuinely new thing, written the day I learned it, no filler.**
+
+## Entries
+
+| Date | Title | Tags |
+|------|-------|------|
+| 2026-08-14 | [Benchmarking local LLMs without a GPU](til/2026-08-14-benchmarking-local-llms-without-a-gpu.md) | local-ai, benchmarking, open-source |
+
+## Format
+
+Each entry lives in `til/YYYY-MM-DD-slug.md` and follows [template.md](template.md). If you want to submit one, PR it — keep it concrete: the problem, what I tried, what actually worked, and a takeaway you can act on.
+
+## License
+
+[MIT](LICENSE) — the *code* is MIT; the *content* is yours to read and quote.
