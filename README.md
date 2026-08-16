@@ -10,6 +10,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 |------|-------|------|
 | 2026-08-14 | [Benchmarking local LLMs without a GPU](til/2026-08-14-benchmarking-local-llms-without-a-gpu.md) | local-ai, benchmarking, open-source |
 | 2026-08-16 | [Agent-to-agent communication: what actually works](til/2026-08-16-agent-to-agent-communication.md) | agents, protocols, messaging, automation |
+| 2026-08-16 | [A silent thermal watchdog on Linux: reading temps from sysfs, not lm-sensors](til/2026-08-16-silent-thermal-watchdog-linux.md) | linux, monitoring, sysfs, automation |
 
 ## Format
 
