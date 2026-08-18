@@ -12,6 +12,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-08-16 | [Agent-to-agent communication: what actually works](til/2026-08-16-agent-to-agent-communication.md) | agents, protocols, messaging, automation |
 | 2026-08-16 | [A silent thermal watchdog on Linux: reading temps from sysfs, not lm-sensors](til/2026-08-16-silent-thermal-watchdog-linux.md) | linux, monitoring, sysfs, automation |
 | 2026-08-17 | [Electron's chrome-sandbox must be setuid root:root 4755 — gate on file state, not on sudo](til/2026-08-17-electron-chrome-sandbox-4755.md) | electron, sandbox, systemd, permissions, linux |
+| 2026-08-18 | [No orchestrator: one model, in-context routing](til/2026-08-18-no-orchestrator-in-context-routing.md) | agents, llms, routing, config |
 
 ## Format
 
