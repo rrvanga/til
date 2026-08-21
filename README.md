@@ -14,6 +14,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-08-17 | [Electron's chrome-sandbox must be setuid root:root 4755 — gate on file state, not on sudo](til/2026-08-17-electron-chrome-sandbox-4755.md) | electron, sandbox, systemd, permissions, linux |
 | 2026-08-18 | [No orchestrator: one model, in-context routing](til/2026-08-18-no-orchestrator-in-context-routing.md) | agents, llms, routing, config |
 | 2026-08-19 | [A CDN blocks the HTML page but forgets the JSON API behind it](til/2026-08-19-cdn-blocks-html-but-not-json-api.md) | curl, cdn, http, api, web-scraping |
+| 2026-08-20 | [A validation script that fails closed when there is nothing to scan](til/2026-08-20-fail-closed-when-nothing-to-scan.md) | bash, fail-closed, automation, validation, exit-codes |
 
 ## Format
 
