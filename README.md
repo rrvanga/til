@@ -16,6 +16,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-08-19 | [A CDN blocks the HTML page but forgets the JSON API behind it](til/2026-08-19-cdn-blocks-html-but-not-json-api.md) | curl, cdn, http, api, web-scraping |
 | 2026-08-20 | [A validation script that fails closed when there is nothing to scan](til/2026-08-20-fail-closed-when-nothing-to-scan.md) | bash, fail-closed, automation, validation, exit-codes |
 | 2026-08-21 | [A config key can be written and whitelisted yet never read — grep for readers before calling it dead](til/2026-08-21-config-key-written-but-never-read.md) | config, dead-code, code-audit |
+| 2026-08-24 | [Verify every error string and output example in AI-generated docs against the source](til/2026-08-24-verify-generated-doc-claims-against-source.md) | ai-agents, verification, documentation, grep |
 
 ## Format
 
