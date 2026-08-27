@@ -17,6 +17,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-08-20 | [A validation script that fails closed when there is nothing to scan](til/2026-08-20-fail-closed-when-nothing-to-scan.md) | bash, fail-closed, automation, validation, exit-codes |
 | 2026-08-21 | [A config key can be written and whitelisted yet never read — grep for readers before calling it dead](til/2026-08-21-config-key-written-but-never-read.md) | config, dead-code, code-audit |
 | 2026-08-24 | [Verify every error string and output example in AI-generated docs against the source](til/2026-08-24-verify-generated-doc-claims-against-source.md) | ai-agents, verification, documentation, grep |
+| 2026-08-26 | [An auto-refresh cron job commits to whatever branch is checked out — not always main](til/2026-08-26-scheduled-commit-lands-on-checked-out-branch.md) | git, automation, cron |
 
 ## Format
 
