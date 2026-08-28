@@ -19,6 +19,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-08-24 | [Verify every error string and output example in AI-generated docs against the source](til/2026-08-24-verify-generated-doc-claims-against-source.md) | ai-agents, verification, documentation, grep |
 | 2026-08-26 | [An auto-refresh cron job commits to whatever branch is checked out — not always main](til/2026-08-26-scheduled-commit-lands-on-checked-out-branch.md) | git, automation, cron |
 | 2026-08-27 | [An OEM-only CPU has no spec page on the vendor's site — triangulate three spec databases](til/2026-08-27-oem-only-cpu-sku-three-spec-databases.md) | hardware-research, cpus, verification, oem |
+| 2026-08-28 | [A single output capture is not a format change — find the conditional in source](til/2026-08-28-one-capture-not-a-format-change.md) | cli, verification, documentation |
 
 ## Format
 
