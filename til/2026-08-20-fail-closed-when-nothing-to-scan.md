@@ -1,7 +1,7 @@
 # A validation script that fails closed when there is nothing to scan
 
 **Date:** 2026-08-20
-**Tags:** bash, fail-closed, automation, validation, exit-codes
+**Tags:** `bash`, `fail-closed`, `automation`, `validation`, `exit-codes`
 
 ## The problem
 

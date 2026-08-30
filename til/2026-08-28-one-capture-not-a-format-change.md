@@ -5,7 +5,7 @@
 
 ## The problem
 
-While reworking `docs/UPDATE.md` (agent-lab, PR #14), a previous run captured a `hermes --version` line that ended at `· upstream <sha>` with no `· local <sha>` field, concluded v0.20.6 had "dropped the field" (a format change), and wrote that claim into the runbook. It also quoted `TimeoutStopSec=60` for the gateway unit. The MOA review gate (second pass) returned `VERDICT: CHANGES REQUIRED` with both as findings — including one "fabrication of the exact class this gate exists to catch."
+A runbook documented a CLI "format change" — a `hermes --version` capture that ended at `· upstream <sha>` with no `· local <sha>` field was read as evidence that v0.20.6 had dropped the field — and it quoted `TimeoutStopSec=60` for the gateway unit. A review gate returned `VERDICT: CHANGES REQUIRED` on both claims, labeling one the exact class of fabrication the gate exists to catch. The catch: one capture taken at one moment is not a rule.
 
 ## What I tried
 
