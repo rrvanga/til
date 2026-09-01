@@ -18,6 +18,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-08-27 | [An OEM-only CPU has no spec page on the vendor's site — triangulate three spec databases](til/2026-08-27-oem-only-cpu-sku-three-spec-databases.md) | hardware-research, cpus, verification, oem |
 | 2026-08-28 | [A single output capture is not a format change — find the conditional in source](til/2026-08-28-one-capture-not-a-format-change.md) | cli, verification, documentation |
 | 2026-08-31 | [A daily data-refresh script commits only when content changed, not when the timestamp changed](til/2026-08-31-data-refresh-commit-only-on-content-change.md) | git, automation, cron, data-engineering, bash |
+| 2026-09-01 | [rtcwake -m off never returns — arm with -m no, verify the alarm, then power off yourself](til/2026-09-01-rtcwake-m-off-never-returns.md) | rtcwake, power-management, linux, bash, fail-closed |
 
 ## Format
 
