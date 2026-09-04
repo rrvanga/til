@@ -21,6 +21,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-01 | [rtcwake -m off never returns — arm with -m no, verify the alarm, then power off yourself](til/2026-09-01-rtcwake-m-off-never-returns.md) | rtcwake, power-management, linux, bash, fail-closed |
 | 2026-09-02 | [Hermes config set: "not a recognized config key" warning but the set still lands](til/2026-09-02-hermes-config-set-schema-warning.md) | hermes, config, cli |
 | 2026-09-03 | [A pricing refresh added 25 US-gov region clones — diff the snapshots, don't trust model_count](til/2026-09-03-pricing-refresh-us-gov-region-clones.md) | llmcost, data-refresh, json-diff |
+| 2026-09-04 | [A midnight-spanning night-window predicate admits daytime when start ≤ end — validate the shape, not just the format](til/2026-09-04-midnight-spanning-window-predicate.md) | bash, time-handling, fail-closed |
 
 ## Format
 
