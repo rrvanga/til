@@ -20,6 +20,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-08-31 | [A daily data-refresh script commits only when content changed, not when the timestamp changed](til/2026-08-31-data-refresh-commit-only-on-content-change.md) | git, automation, cron, data-engineering, bash |
 | 2026-09-01 | [rtcwake -m off never returns — arm with -m no, verify the alarm, then power off yourself](til/2026-09-01-rtcwake-m-off-never-returns.md) | rtcwake, power-management, linux, bash, fail-closed |
 | 2026-09-02 | [Hermes config set: "not a recognized config key" warning but the set still lands](til/2026-09-02-hermes-config-set-schema-warning.md) | hermes, config, cli |
+| 2026-09-03 | [A pricing refresh added 25 US-gov region clones — diff the snapshots, don't trust model_count](til/2026-09-03-pricing-refresh-us-gov-region-clones.md) | llmcost, data-refresh, json-diff |
 
 ## Format
 
