@@ -23,6 +23,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-03 | [A pricing refresh added 25 US-gov region clones — diff the snapshots, don't trust model_count](til/2026-09-03-pricing-refresh-us-gov-region-clones.md) | llmcost, data-refresh, json-diff |
 | 2026-09-04 | [A midnight-spanning night-window predicate admits daytime when start ≤ end — validate the shape, not just the format](til/2026-09-04-midnight-spanning-window-predicate.md) | bash, time-handling, fail-closed |
 | 2026-09-07 | [A background job writes its real verdict after the wrapper reports "exited" — verify with pgrep first](til/2026-09-07-background-verdict-outlives-wrapper-status.md) | background-processes, verification, automation, bash |
+| 2026-09-08 | [OpenCode Go answers 400 "MissingSessionID" when a request skips the x-opencode-session header](til/2026-09-08-opencode-go-400-missing-session-header.md) | opencode-go, api, headers, hermes, error-handling |
 
 ## Format
 
