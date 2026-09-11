@@ -25,6 +25,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-07 | [A background job writes its real verdict after the wrapper reports "exited" — verify with pgrep first](til/2026-09-07-background-verdict-outlives-wrapper-status.md) | background-processes, verification, automation, bash |
 | 2026-09-08 | [OpenCode Go answers 400 "MissingSessionID" when a request skips the x-opencode-session header](til/2026-09-08-opencode-go-400-missing-session-header.md) | opencode-go, api, headers, hermes, error-handling |
 | 2026-09-09 | [Trust `gh pr view` / `gh issue view` for merge status — run notes self-report and overclaim](til/2026-09-09-verify-merge-status-via-gh-api.md) | git, github-cli, verification, automation, cron |
+| 2026-09-11 | [The x-opencode-session fix was in the running Hermes code, yet the max-iterations summary path still sent the request without it](til/2026-09-11-session-header-missing-from-summary-path.md) | opencode-go, headers, verification, error-handling |
 
 ## Format
 
