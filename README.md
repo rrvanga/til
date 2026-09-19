@@ -28,6 +28,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-11 | [The x-opencode-session fix was in the running Hermes code, yet the max-iterations summary path still sent the request without it](til/2026-09-11-session-header-missing-from-summary-path.md) | opencode-go, headers, verification, error-handling |
 | 2026-09-14 | [A transient fetch blip killed the whole cron run — bounded retries absorb it, then fail loudly](til/2026-09-14-bounded-retries-absorb-cron-fetch-blips.md) | bash, cron, retries |
 | 2026-09-15 | [Hermes terminates the turn when context compression stalls — a long cron session dies with "Context compression timed out"](til/2026-09-15-stalled-context-compression-kills-cron-run.md) | hermes, cron, context-compression, timeouts |
+| 2026-09-18 | [An adaptive monitor keeps stale consecutive-fail strikes after the fallback is re-wired](til/2026-09-18-stale-cfalls-state-after-fallback-rewire.md) | monitoring, state, automation, verification |
 
 ## Format
 
