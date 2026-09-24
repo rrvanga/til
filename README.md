@@ -30,6 +30,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-15 | [Hermes terminates the turn when context compression stalls — a long cron session dies with "Context compression timed out"](til/2026-09-15-stalled-context-compression-kills-cron-run.md) | hermes, cron, context-compression, timeouts |
 | 2026-09-18 | [An adaptive monitor keeps stale consecutive-fail strikes after the fallback is re-wired](til/2026-09-18-stale-cfalls-state-after-fallback-rewire.md) | monitoring, state, automation, verification |
 | 2026-09-22 | [A failed monitor run didn't write union-alpha's price — the next convergence pass did](til/2026-09-22-who-priced-union-alpha.md) | cron, monitoring, verification |
+| 2026-09-23 | [archify validate is staged — a schema-clean file still fails the showcase layout gate](til/2026-09-23-archify-validate-staged-gates.md) | archify, diagrams, validation, verification |
 
 ## Format
 
