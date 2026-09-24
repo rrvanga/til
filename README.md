@@ -31,6 +31,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-18 | [An adaptive monitor keeps stale consecutive-fail strikes after the fallback is re-wired](til/2026-09-18-stale-cfalls-state-after-fallback-rewire.md) | monitoring, state, automation, verification |
 | 2026-09-22 | [A failed monitor run didn't write union-alpha's price — the next convergence pass did](til/2026-09-22-who-priced-union-alpha.md) | cron, monitoring, verification |
 | 2026-09-23 | [archify validate is staged — a schema-clean file still fails the showcase layout gate](til/2026-09-23-archify-validate-staged-gates.md) | archify, diagrams, validation, verification |
+| 2026-09-24 | [A `*-free` model in the zen catalog isn't necessarily callable — most return 403 FreeTierError from the raw API](til/2026-09-24-free-tier-models-403-outside-opencode.md) | opencode-go, api, fallback, verification, monitoring |
 
 ## Format
 
