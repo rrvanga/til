@@ -32,6 +32,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-22 | [A failed monitor run didn't write union-alpha's price — the next convergence pass did](til/2026-09-22-who-priced-union-alpha.md) | cron, monitoring, verification |
 | 2026-09-23 | [archify validate is staged — a schema-clean file still fails the showcase layout gate](til/2026-09-23-archify-validate-staged-gates.md) | archify, diagrams, validation, verification |
 | 2026-09-24 | [A `*-free` model in the zen catalog isn't necessarily callable — most return 403 FreeTierError from the raw API](til/2026-09-24-free-tier-models-403-outside-opencode.md) | opencode-go, api, fallback, verification, monitoring |
+| 2026-09-25 | [archify validate without `--repo-root` exits at the evidence gate — the real render diagnostics never surface](til/2026-09-25-archify-repo-root-masks-diagnostics.md) | archify, validation, diagnostics, verification |
 
 ## Format
 
