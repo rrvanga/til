@@ -34,6 +34,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-24 | [A `*-free` model in the zen catalog isn't necessarily callable — most return 403 FreeTierError from the raw API](til/2026-09-24-free-tier-models-403-outside-opencode.md) | opencode-go, api, fallback, verification, monitoring |
 | 2026-09-25 | [archify validate without `--repo-root` exits at the evidence gate — the real render diagnostics never surface](til/2026-09-25-archify-repo-root-masks-diagnostics.md) | archify, validation, diagnostics, verification |
 | 2026-09-28 | [archify: force orthogonal lanes with truthful fromSide/toSide and an explicit via detour](til/2026-09-28-archify-forced-orthogonal-lanes.md) | archify, diagrams, validation, routing |
+| 2026-09-29 | [archify receipts commit absolute paths — scrub committed JSON evidence to repo-relative before pushing](til/2026-09-29-archify-receipt-absolute-paths.md) | archify, pii, verification |
 
 ## Format
 
