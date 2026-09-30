@@ -35,6 +35,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-25 | [archify validate without `--repo-root` exits at the evidence gate — the real render diagnostics never surface](til/2026-09-25-archify-repo-root-masks-diagnostics.md) | archify, validation, diagnostics, verification |
 | 2026-09-28 | [archify: force orthogonal lanes with truthful fromSide/toSide and an explicit via detour](til/2026-09-28-archify-forced-orthogonal-lanes.md) | archify, diagrams, validation, routing |
 | 2026-09-29 | [archify receipts commit absolute paths — scrub committed JSON evidence to repo-relative before pushing](til/2026-09-29-archify-receipt-absolute-paths.md) | archify, pii, verification |
+| 2026-09-30 | [A live background process can sit on a 0-byte log — block-buffered stdout flushes only at exit; check /proc, not output size](til/2026-09-30-block-buffered-stdout-0-byte-log.md) | background-processes, buffering, verification, monitoring |
 
 ## Format
 
