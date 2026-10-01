@@ -36,6 +36,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-28 | [archify: force orthogonal lanes with truthful fromSide/toSide and an explicit via detour](til/2026-09-28-archify-forced-orthogonal-lanes.md) | archify, diagrams, validation, routing |
 | 2026-09-29 | [archify receipts commit absolute paths — scrub committed JSON evidence to repo-relative before pushing](til/2026-09-29-archify-receipt-absolute-paths.md) | archify, pii, verification |
 | 2026-09-30 | [A live background process can sit on a 0-byte log — block-buffered stdout flushes only at exit; check /proc, not output size](til/2026-09-30-block-buffered-stdout-0-byte-log.md) | background-processes, buffering, verification, monitoring |
+| 2026-10-01 | [An alias applied to the aggregation key — but not the rate lookup — silently prices the lane at the default rate](til/2026-10-01-alias-key-but-not-rate-lookup.md) | python, pricing, aliases, verification, monitoring |
 
 ## Format
 
