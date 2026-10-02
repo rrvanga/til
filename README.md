@@ -37,6 +37,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-29 | [archify receipts commit absolute paths — scrub committed JSON evidence to repo-relative before pushing](til/2026-09-29-archify-receipt-absolute-paths.md) | archify, pii, verification |
 | 2026-09-30 | [A live background process can sit on a 0-byte log — block-buffered stdout flushes only at exit; check /proc, not output size](til/2026-09-30-block-buffered-stdout-0-byte-log.md) | background-processes, buffering, verification, monitoring |
 | 2026-10-01 | [An alias applied to the aggregation key — but not the rate lookup — silently prices the lane at the default rate](til/2026-10-01-alias-key-but-not-rate-lookup.md) | python, pricing, aliases, verification, monitoring |
+| 2026-10-02 | [A stale request-cap denominator read as 4.9× the real headroom — verify every cap against its live source](til/2026-10-02-stale-request-cap-false-headroom.md) | monitoring, pricing, verification, quota |
 
 ## Format
 
