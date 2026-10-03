@@ -26,6 +26,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-08 | [OpenCode Go answers 400 "MissingSessionID" when a request skips the x-opencode-session header](til/2026-09-08-opencode-go-400-missing-session-header.md) | opencode-go, api, headers, hermes, error-handling |
 | 2026-09-09 | [Trust `gh pr view` / `gh issue view` for merge status — run notes self-report and overclaim](til/2026-09-09-verify-merge-status-via-gh-api.md) | git, github-cli, verification, automation, cron |
 | 2026-09-11 | [The x-opencode-session fix was in the running Hermes code, yet the max-iterations summary path still sent the request without it](til/2026-09-11-session-header-missing-from-summary-path.md) | opencode-go, headers, verification, error-handling |
+| 2026-09-11 | [A stale sync DB makes `pacman -Qu` return an empty false-green — check the DB mtimes first](til/2026-09-11-stale-pacman-sync-db.md) | arch, pacman, updates, verification, read-only-checks |
 | 2026-09-14 | [A transient fetch blip killed the whole cron run — bounded retries absorb it, then fail loudly](til/2026-09-14-bounded-retries-absorb-cron-fetch-blips.md) | bash, cron, retries |
 | 2026-09-15 | [Hermes terminates the turn when context compression stalls — a long cron session dies with "Context compression timed out"](til/2026-09-15-stalled-context-compression-kills-cron-run.md) | hermes, cron, context-compression, timeouts |
 | 2026-09-18 | [An adaptive monitor keeps stale consecutive-fail strikes after the fallback is re-wired](til/2026-09-18-stale-cfalls-state-after-fallback-rewire.md) | monitoring, state, automation, verification |
@@ -38,6 +39,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-09-30 | [A live background process can sit on a 0-byte log — block-buffered stdout flushes only at exit; check /proc, not output size](til/2026-09-30-block-buffered-stdout-0-byte-log.md) | background-processes, buffering, verification, monitoring |
 | 2026-10-01 | [An alias applied to the aggregation key — but not the rate lookup — silently prices the lane at the default rate](til/2026-10-01-alias-key-but-not-rate-lookup.md) | python, pricing, aliases, verification, monitoring |
 | 2026-10-02 | [A stale request-cap denominator read as 4.9× the real headroom — verify every cap against its live source](til/2026-10-02-stale-request-cap-false-headroom.md) | monitoring, pricing, verification, quota |
+| 2026-10-03 | [Pacman v7 refuses a root-free `-Sy` even with a private `--dbpath` — unprivileged update checks are local-DB-only now](til/2026-10-03-pacman-refuses-rootfree-sync.md) | arch, pacman, updates, unprivileged, verification |
 
 ## Format
 
