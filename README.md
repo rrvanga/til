@@ -40,6 +40,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-01 | [An alias applied to the aggregation key — but not the rate lookup — silently prices the lane at the default rate](til/2026-10-01-alias-key-but-not-rate-lookup.md) | python, pricing, aliases, verification, monitoring |
 | 2026-10-02 | [A stale request-cap denominator read as 4.9× the real headroom — verify every cap against its live source](til/2026-10-02-stale-request-cap-false-headroom.md) | monitoring, pricing, verification, quota |
 | 2026-10-03 | [Pacman v7 refuses a root-free `-Sy` even with a private `--dbpath` — unprivileged update checks are local-DB-only now](til/2026-10-03-pacman-refuses-rootfree-sync.md) | arch, pacman, updates, unprivileged, verification |
+| 2026-10-06 | [A temp file you only patched can't be overwritten blind — write_file demands a full read, even in /tmp](til/2026-10-06-write-file-refuses-unread-overwrite.md) | hermes, tooling, verification |
 
 ## Format
 
