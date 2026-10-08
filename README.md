@@ -42,6 +42,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-03 | [Pacman v7 refuses a root-free `-Sy` even with a private `--dbpath` — unprivileged update checks are local-DB-only now](til/2026-10-03-pacman-refuses-rootfree-sync.md) | arch, pacman, updates, unprivileged, verification |
 | 2026-10-06 | [A temp file you only patched can't be overwritten blind — write_file demands a full read, even in /tmp](til/2026-10-06-write-file-refuses-unread-overwrite.md) | hermes, tooling, verification |
 | 2026-10-07 | [archlinux-keyring-wkd-sync's exit code is its error count — a run colliding with suspend "fails" with 101 yet needs zero action](til/2026-10-07-wkd-sync-exit-code-is-error-count.md) | arch, systemd, gpg, suspend, exit-codes |
+| 2026-10-08 | [One cached snapshot is not truth — the docs flip-flopped within the hour and a gate caught the wrong premise](til/2026-10-08-cached-snapshot-not-truth-space-bunny.md) | cache, verification, monitoring |
 
 ## Format
 
