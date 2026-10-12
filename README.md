@@ -44,6 +44,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-07 | [archlinux-keyring-wkd-sync's exit code is its error count — a run colliding with suspend "fails" with 101 yet needs zero action](til/2026-10-07-wkd-sync-exit-code-is-error-count.md) | arch, systemd, gpg, suspend, exit-codes |
 | 2026-10-08 | [One cached snapshot is not truth — the docs flip-flopped within the hour and a gate caught the wrong premise](til/2026-10-08-cached-snapshot-not-truth-space-bunny.md) | cache, verification, monitoring |
 | 2026-10-09 | [A `cmp -s` drift checker reports "differ" with no magnitude — one intentional deployed-only line reads as a permanent WARN](til/2026-10-09-drift-checker-warn-no-magnitude.md) | bash, verification, monitoring |
+| 2026-10-12 | [A pricing refresh added 7 models but edited 36 existing rows — diff keyed by provider/model, not by counts](til/2026-10-12-pricing-refresh-edits-existing-rows.md) | llmcost, json-diff, verification, data-refresh |
 
 ## Format
 
