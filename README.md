@@ -46,6 +46,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-09 | [A `cmp -s` drift checker reports "differ" with no magnitude — one intentional deployed-only line reads as a permanent WARN](til/2026-10-09-drift-checker-warn-no-magnitude.md) | bash, verification, monitoring |
 | 2026-10-12 | [A pricing refresh added 7 models but edited 36 existing rows — diff keyed by provider/model, not by counts](til/2026-10-12-pricing-refresh-edits-existing-rows.md) | llmcost, json-diff, verification, data-refresh |
 | 2026-10-13 | [Hermes cron replays a missed day in one tick — `last_status: ok` hides an 11-hour `catch_up` lateness](til/2026-10-13-hermes-cron-catch-up-on-boot.md) | hermes, cron, scheduling, verification |
+| 2026-10-14 | [`hermes moa list` renders a disabled reference slot as a live reviewer — the "3-model" gate had been single-model](til/2026-10-14-moa-gate-degraded-to-single-model.md) | hermes, moa, verification |
 
 ## Format
 
