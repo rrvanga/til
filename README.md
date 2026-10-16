@@ -48,6 +48,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-13 | [Hermes cron replays a missed day in one tick — `last_status: ok` hides an 11-hour `catch_up` lateness](til/2026-10-13-hermes-cron-catch-up-on-boot.md) | hermes, cron, scheduling, verification |
 | 2026-10-14 | [`hermes moa list` renders a disabled reference slot as a live reviewer — the "3-model" gate had been single-model](til/2026-10-14-moa-gate-degraded-to-single-model.md) | hermes, moa, verification |
 | 2026-10-15 | [Give content drift its own exit code — a checker that warns and exits 0 can never be automated](til/2026-10-15-drift-exit-code-contract.md) | bash, exit-codes, ops-drift, automation |
+| 2026-10-16 | [One price table in four files: compare duplicated Python literals with `ast.literal_eval` — no import, key-level deltas](til/2026-10-16-duplicated-table-parity-ast-literal-eval.md) | python, ast, ops-drift |
 
 ## Format
 
