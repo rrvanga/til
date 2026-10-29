@@ -49,6 +49,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-14 | [`hermes moa list` renders a disabled reference slot as a live reviewer — the "3-model" gate had been single-model](til/2026-10-14-moa-gate-degraded-to-single-model.md) | hermes, moa, verification |
 | 2026-10-15 | [Give content drift its own exit code — a checker that warns and exits 0 can never be automated](til/2026-10-15-drift-exit-code-contract.md) | bash, exit-codes, ops-drift, automation |
 | 2026-10-16 | [One price table in four files: compare duplicated Python literals with `ast.literal_eval` — no import, key-level deltas](til/2026-10-16-duplicated-table-parity-ast-literal-eval.md) | python, ast, ops-drift |
+| 2026-10-29 | [A sync tool that writes into a git worktree must refuse on a dirty tree — `cp` leaves nothing for the reflog to recover](til/2026-10-29-dirty-worktree-veto-on-repo-writes.md) | bash, git, ops-drift, fail-closed |
 
 ## Format
 
