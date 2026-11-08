@@ -51,6 +51,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-16 | [One price table in four files: compare duplicated Python literals with `ast.literal_eval` — no import, key-level deltas](til/2026-10-16-duplicated-table-parity-ast-literal-eval.md) | python, ast, ops-drift |
 | 2026-10-29 | [A sync tool that writes into a git worktree must refuse on a dirty tree — `cp` leaves nothing for the reflog to recover](til/2026-10-29-dirty-worktree-veto-on-repo-writes.md) | bash, git, ops-drift, fail-closed |
 | 2026-10-30 | [A 3.1× bigger gate prompt burned 30 min on `⟳ compacting context…` and returned no verdict — scope the diff](til/2026-10-30-gate-prompt-size-compaction-loop.md) | hermes, moa, prompts |
+| 2026-11-08 | [`git rev-parse --is-inside-work-tree` exits 0 and prints `false` — status answers "did git run", not "yes"](til/2026-11-08-is-inside-work-tree-exit-zero-is-not-yes.md) | bash, git, fail-closed |
 
 ## Format
 
