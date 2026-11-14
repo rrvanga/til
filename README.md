@@ -52,6 +52,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). The rule: **one
 | 2026-10-29 | [A sync tool that writes into a git worktree must refuse on a dirty tree — `cp` leaves nothing for the reflog to recover](til/2026-10-29-dirty-worktree-veto-on-repo-writes.md) | bash, git, ops-drift, fail-closed |
 | 2026-10-30 | [A 3.1× bigger gate prompt burned 30 min on `⟳ compacting context…` and returned no verdict — scope the diff](til/2026-10-30-gate-prompt-size-compaction-loop.md) | hermes, moa, prompts |
 | 2026-11-08 | [`git rev-parse --is-inside-work-tree` exits 0 and prints `false` — status answers "did git run", not "yes"](til/2026-11-08-is-inside-work-tree-exit-zero-is-not-yes.md) | bash, git, fail-closed |
+| 2026-11-13 | [A policy refusal in an unattended run is exit -1 with empty stdout — not a shell failure](til/2026-11-13-blocked-is-not-failed.md) | bash, cron, tooling |
 
 ## Format
 
